@@ -2,4 +2,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Прогнозирование оттока клиентов](https://github.com/alvalkol/yandex_practicum_project/edit/main/telecom_outflow/README.md) | Построение модели машинного обучения для прогнозирования оттока клиентов для оператора связи | *Matplotlib*, *Pandas*, *Python*, *Scikit-learn*, *CatBoost*|
+| [Прогнозирование оттока клиентов](https://github.com/alvalkol/yandex_practicum_project/tree/main/telecom_outflow) | Построение модели машинного обучения для прогнозирования оттока клиентов для оператора связи | *Matplotlib*, *Pandas*, *Python*, *Scikit-learn*, *CatBoost*|
