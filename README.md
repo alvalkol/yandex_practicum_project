@@ -5,7 +5,7 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Определение наиболее выгодного региона нефтедобычи](https://github.com/alvalkol/yandex_practicum_project/tree/main/oil_production_region) | На основе данных геологи разведки выбрать район добычи нефти | *Scikit-learn*, *Pandas*, *бутстреп*|
-| [Исследование технологического процесса очистки золота](https://github.com/alvalkol/yandex_practicum_project) | Спрогнозировать концентрацию золота при проведении процесса очистки золота | *Scikit-learn*, *Pandas*, *Python*, *Matplotlib*, *NumPy*, *исследовательский анализ данных* |
+| [Исследование технологического процесса очистки золота](https://github.com/alvalkol/yandex_practicum_project/tree/main/gold_purification) | Спрогнозировать концентрацию золота при проведении процесса очистки золота | *Scikit-learn*, *Pandas*, *Python*, *Matplotlib*, *NumPy*, *исследовательский анализ данных* |
 | [Прогнозирование оттока клиентов телеком компании](https://github.com/alvalkol/yandex_practicum_project/tree/main/telecom_outflow) | Построение модели машинного обучения для прогнозирования оттока клиентов для оператора связи | *Matplotlib*, *Pandas*, *Python*, *Scikit-learn*, *CatBoost*|
 | [Классификаиция клиентов телеком компании](https://github.com/alvalkol/yandex_practicum_project) | На основе данных предложить клиенту тариф | *Matplotlib*, *Pandas*, *Python*, *Scikit-learn*|
 | [Прогнозирование оттока клиента Банка](https://github.com/alvalkol/yandex_practicum_project) | На основе данных из банка определить клиент, который может уйти | *Matplotlib*, *Pandas*, *Scikit-learn*|
